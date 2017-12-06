@@ -1,0 +1,1646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"el_",
+				"el_hasmany\tEloquent HasMany"
+			],
+			[
+				"class",
+				"class_implements\tphp实现类"
+			],
+			[
+				"er",
+				"errorCode"
+			],
+			[
+				"Mod",
+				"modelName"
+			],
+			[
+				"Validation",
+				"ValidationException"
+			],
+			[
+				"el",
+				"el_hasmany\tEloquent HasMany"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"ec",
+				"enctype\tAttr"
+			],
+			[
+				"form",
+				"form\tform"
+			],
+			[
+				"per",
+				"perPage"
+			],
+			[
+				"_c",
+				"_c\tphp构造函数"
+			],
+			[
+				"clear",
+				"clearDatabase"
+			],
+			[
+				"fd_t",
+				"fd_time\tMigration Timestamp Field"
+			],
+			[
+				"ta",
+				"tables"
+			],
+			[
+				"fa",
+				"fa\tSeed Factory"
+			],
+			[
+				"tag",
+				"tagIds"
+			],
+			[
+				"less",
+				"lessonIds"
+			],
+			[
+				"H",
+				"HTTP_REQUEST_SUCCESS"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"respon",
+				"respondWithError"
+			],
+			[
+				"transfo",
+				"transform"
+			],
+			[
+				"respo",
+				"responseError"
+			],
+			[
+				"res",
+				"respond"
+			],
+			[
+				"trans",
+				"transformCollection"
+			],
+			[
+				"transfor",
+				"transformer"
+			],
+			[
+				"Trasn",
+				"TransformerInterface"
+			],
+			[
+				"le",
+				"lessons"
+			],
+			[
+				"roll",
+				"rollTimes"
+			],
+			[
+				"isS",
+				"isStrike"
+			],
+			[
+				"foreac",
+				"foreach_range\tforeach range"
+			],
+			[
+				"rol",
+				"rollSpare"
+			],
+			[
+				"met",
+				"met\tphp公共类函数"
+			],
+			[
+				"array_s",
+				"array_sum"
+			],
+			[
+				"parse",
+				"parseNumber"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"func",
+				"func\tphp匿名函数"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"execue",
+				"executeUpTo"
+			],
+			[
+				"n",
+				"numbers"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"gl",
+				"glyph"
+			],
+			[
+				"meta",
+				"meta:desc\tmeta:desc"
+			],
+			[
+				"me",
+				"meter\tTag"
+			],
+			[
+				"pri",
+				"primes"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"router",
+				"routers"
+			],
+			[
+				"rou",
+				"routers"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"perm",
+				"permission"
+			],
+			[
+				"col-",
+				"col-md-2"
+			],
+			[
+				"bt_",
+				"bt_checkbox\tBoostrap Checkbox"
+			],
+			[
+				"bt",
+				"bt_checkbox\tBoostrap Checkbox"
+			],
+			[
+				"bl_e",
+				"bl_ext\tBlade Extends"
+			],
+			[
+				"route",
+				"routeg\tLaravel Route Group"
+			],
+			[
+				"hTML",
+				"HtmlOutput"
+			],
+			[
+				"Sal",
+				"SalesRepository"
+			],
+			[
+				"fo",
+				"formater"
+			],
+			[
+				"S",
+				"SalesOutputInterface"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"area",
+				"areas"
+			],
+			[
+				"cal",
+				"calculate"
+			],
+			[
+				"Le",
+				"LessonInterface"
+			],
+			[
+				"man",
+				"ManageInterface"
+			],
+			[
+				"work",
+				"worker"
+			],
+			[
+				"Work",
+				"WorkerableInterface"
+			],
+			[
+				"http_b",
+				"http_build_query"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"ad",
+				"adapter"
+			],
+			[
+				"exm",
+				"example"
+			],
+			[
+				"Sym",
+				"SymfonyCommand"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"show",
+				"showTasks"
+			],
+			[
+				"di",
+				"directory"
+			],
+			[
+				"zip",
+				"zipFile"
+			],
+			[
+				"fol",
+				"folderPath"
+			],
+			[
+				"User",
+				"UserDone"
+			],
+			[
+				"dis",
+				"dispatch"
+			],
+			[
+				"e",
+				"event2"
+			],
+			[
+				"dispa",
+				"dispatch"
+			],
+			[
+				"Task",
+				"TaskCollection"
+			],
+			[
+				"In",
+				"InputArgument"
+			],
+			[
+				"from",
+				"fromMinutes"
+			],
+			[
+				"user",
+				"userEventRepository"
+			],
+			[
+				"ac",
+				"accountType"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"array_fi",
+				"array_filter"
+			],
+			[
+				"filte",
+				"filtered"
+			],
+			[
+				"account",
+				"accountType"
+			],
+			[
+				"file",
+				"filtered"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"To",
+				"toJson"
+			],
+			[
+				"L",
+				"LogToDatabase"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"Log",
+				"Logger"
+			],
+			[
+				"com",
+				"communicate"
+			],
+			[
+				"pers",
+				"person"
+			],
+			[
+				"swi",
+				"Switch"
+			],
+			[
+				"Li",
+				"library"
+			],
+			[
+				"boo",
+				"books"
+			],
+			[
+				"sou",
+				"soundAlarm"
+			],
+			[
+				"check",
+				"checkForAlarm"
+			],
+			[
+				"tem",
+				"temperature"
+			],
+			[
+				"epsi",
+				"epsidos"
+			],
+			[
+				"watc",
+				"watched"
+			],
+			[
+				"a",
+				"alias"
+			],
+			[
+				"mov",
+				"movie2"
+			],
+			[
+				"coll",
+				"collect"
+			],
+			[
+				"collec",
+				"collection"
+			],
+			[
+				"pas",
+				"password_hash"
+			],
+			[
+				"objecthas",
+				"objectHasAttributes"
+			],
+			[
+				"func_get",
+				"func_get_args"
+			],
+			[
+				"fun",
+				"func\tphp函数"
+			],
+			[
+				"goo",
+				"goodsLists"
+			],
+			[
+				"cust",
+				"customers"
+			],
+			[
+				"Customer",
+				"CustomerRepositoryTest"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"Custom",
+				"Customer"
+			],
+			[
+				"sil",
+				"silverCustomer"
+			],
+			[
+				"assert",
+				"assertTrue"
+			],
+			[
+				"gold",
+				"goldCustomer"
+			],
+			[
+				"Cust",
+				"CustomerIsGold"
+			],
+			[
+				"obser",
+				"observer"
+			],
+			[
+				"ob",
+				"observer"
+			],
+			[
+				"foreach",
+				"foreach\tforeach …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/Bash.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PHP.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PHP.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 233.0,
+		"last_filter": "rename",
+		"selected_items":
+		[
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"DELE",
+				"ANF: Delete Current File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters"
+			],
+			[
+				"extra",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package lis",
+				"Package Control: List Packages"
+			],
+			[
+				"renam",
+				"ANF: Rename File"
+			],
+			[
+				"del",
+				"ANF: Delete Current File"
+			],
+			[
+				"ren",
+				"ANF: Rename File"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set syntax: php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"un ma",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"run",
+				"Sublime PHPUnit: Run All Tests"
+			],
+			[
+				"phpunit",
+				"Sublime PHPUnit: Run All Tests"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"reanme",
+				"ANF: Rename File"
+			],
+			[
+				"delte",
+				"ANF: Delete Current File"
+			],
+			[
+				"de",
+				"ANF: Delete File"
+			],
+			[
+				"debug",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"renin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"phpuni",
+				"Sublime PHPUnit: Run This File"
+			],
+			[
+				"phpu",
+				"Sublime PHPUnit: Run This File"
+			],
+			[
+				"re",
+				"ANF: Rename File"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"make contro",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"artisan ",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"artisan make",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"r",
+				"PHPUnit: Run"
+			],
+			[
+				"php",
+				"PHPUnit: Run"
+			],
+			[
+				"setter",
+				"Generate Setter for ..."
+			],
+			[
+				"getter",
+				"Generate Getter for ..."
+			],
+			[
+				"",
+				"ANF: Rename File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"anf",
+				"ANF: Rename File"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"package ",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"unins",
+				"Colorsublime: Uninstall Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"cle",
+				"Bookmarks: Clear All"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"fo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"formate",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Package Control: reo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"uns",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 463.0,
+		"history":
+		[
+			"let a = 1;",
+			"ls",
+			"php ",
+			"phpinfo();",
+			"pwd",
+			"ls",
+			"name",
+			"pwd",
+			"ls",
+			"fwefw",
+			"ffwef",
+			"pwd",
+			"ls",
+			"help",
+			"sdfwe",
+			"pwd",
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/xudong7930/Public/Xudong/restful_api"
+	],
+	"file_history":
+	[
+		"/Users/xudong7930/Public/Xudong/restful_api/restful_api.sublime-project",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/restful_api.sublime-project",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Transaction.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/database/migrations/2017_11_24_084604_create_transactions_table.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/database/migrations/2017_11_24_080141_create_products_table.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/routes/api.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Http/Controllers/Seller/SellerController.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/database/migrations/2017_11_23_091324_create_category_table.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Buyer.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Acme/Scopes/SellerScope.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Seller.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Product.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/User.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Acme/Scopes/BuyerScope.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Exceptions/Handler.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Http/Controllers/User/UserController.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Acme/Traint/ApiResponser.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Http/Controllers/ApiController.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Acme/Traint/ResponseTraint.php",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Factory/Seed Factory Callback.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Seed Factory.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Eloquent/Eloquent Fillable.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Eloquent/Eloquent Table.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Eloquent HasMany.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Faker/Faker Email.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Faker/Faker Number.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Faker/Faker Paragraph.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Faker/Faker Random Element.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Faker/Faker Username.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Faker/Faker Word.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Eloquent BelongToMany.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Eloquent HasOne.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Eloquent BelongTo.sublime-snippet",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Http/Controllers/Buyer/BuyerController.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Http/Controllers/Transaction/TransactionController.php",
+		"/etc/hosts",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Http/Controllers/BuyerBuyerController.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/app/Http/Controllers/UserController.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/database/factories/ModelFactory.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/database/seeds/DatabaseSeeder.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/.env",
+		"/Users/xudong7930/Public/Xudong/restful_api/database/factories/UserFactory.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/Users/xudong7930/Public/Xudong/restful_api/server.php",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Facker/Facker Model Random.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Facker/Facker Number.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Facker/Facker Sentence.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Facker/Facker Word.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Facker/Facker Random Element.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Facker/Facker Email.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Facker/Facker Username.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/laravel_and_blade/Blade All Error.sublime-snippet",
+		"/Users/xudong7930/Public/Xudong/incremental_api/config/database.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Providers/RouteServiceProvider.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Providers/EventServiceProvider.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Providers/BroadcastServiceProvider.php",
+		"/Users/xudong7930/Public/Xudong/Laraveldoc/vagrant.md",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Http/Controllers/Hi.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/server.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/after.sh",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Installed Packages/Theme - El Capitan.sublime-package",
+		"/Users/xudong7930/Public/Xudong/incremental_api/metadata.json",
+		"/Users/xudong7930/Public/Xudong/incremental_api/Homestead.yaml",
+		"/Users/xudong7930/Public/Xudong/incremental_api/routes/web.php",
+		"/Volumes/xuergou/restful-api/03-creating-and-setting-the-initial-structure-of-laravel-for-the-restful-api/quizzes/001-exercise-find-out-how-to-go-out-from-the-virtual-machine.html",
+		"/Volumes/xuergou/restful-api/03-creating-and-setting-the-initial-structure-of-laravel-for-the-restful-api/attached_files/013-preparing-and-configuring-laravel-homestead/Homestead.txt",
+		"/Users/xudong7930/Public/Xudong/incremental_api/vendor/laravel/homestead/scripts/homestead.rb",
+		"/Users/xudong7930/Public/Homestead/Homestead.yaml",
+		"/Users/xudong7930/Public/Homestead/metadata.json",
+		"/Users/xudong7930/Public/Xudong/incremental_api/package.json",
+		"/Users/xudong7930/Public/Homestead/.travis.yml",
+		"/Users/xudong7930/Public/Homestead/after.sh",
+		"/Users/xudong7930/Public/Homestead/aliases",
+		"/Users/xudong7930/Public/Homestead/phpunit.xml.dist",
+		"/Users/xudong7930/Public/Homestead/Vagrantfile",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Http/Controllers/LessonController.php",
+		"/Users/xudong7930/.zshrc",
+		"/Users/xudong7930/Desktop/clear.sh",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Acme/Forms/Form.blade.php",
+		"/Users/xudong7930/Public/Laravel/sentinel/app/Http/Controllers/PermissionController.php",
+		"/Users/xudong7930/Public/Laravel/sentinel/database/migrations/2014_07_02_230147_migration_cartalyst_sentinel.php",
+		"/Users/xudong7930/Public/Laravel/sentinel/app/Http/Controllers/ManagerController.php",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/php函数.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/php公共类函数.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/php/foreach range.sublime-snippet",
+		"/Users/xudong7930/Library/Application Support/Sublime Text 3/Packages/User/Snippets/.gitignore",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/El Capitan.sublime-theme",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Widget - El Capitan.stTheme",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Widget - El Capitan.sublime-settings",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Assets/spinner/spinner4@2x.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Assets/tab-inactive.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Assets/scrollbar/overlay-dark-puck-vertical.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Assets/scrollbar/overlay-scrollbar-horizontal@2x.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/file_type_binary.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/file_type_image.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/file_type_markup@2x.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/file_type_text@2x.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/folder_blue@2x.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/folder_blue_opened@2x.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/folder@2x.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/file_type_source@2x.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/file_type_markup.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/icons/file_type_default.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Source/Scrollbars.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Source/Folders.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/Source/Fireworks.png",
+		"/Users/xudong7930/Desktop/El-Capitan-Theme/README.md",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Acme/Transformer/LessonTransformer.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/public/favicon.ico",
+		"/Users/xudong7930/Public/Xudong/incremental_api/.env",
+		"/Users/xudong7930/Public/Xudong/incremental_api/artisan",
+		"/Users/xudong7930/Public/Xudong/incremental_api/.gitignore",
+		"/Users/xudong7930/Public/Xudong/incremental_api/.gitattributes",
+		"/Users/xudong7930/Public/Xudong/incremental_api/phpunit.xml",
+		"/Users/xudong7930/Public/Xudong/incremental_api/tests/Feature/LessonTest.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Http/Controllers/ApiController.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/vendor/symfony/console/Tests/Fixtures/application_filtered_namespace.txt",
+		"/Users/xudong7930/Public/Xudong/incremental_api/tests/Unit/ExampleTest.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/tests/Feature/ExampleTest.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/tests/TestCase.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/tests/CreatesApplication.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/LessonTag.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Tag.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Lesson.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Exceptions/Handler.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/routes/api.php",
+		"/Users/xudong7930/Public/Xudong/incremental_api/app/Http/Controllers/TagController.php"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 485.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 346.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 424.0
+	},
+	"output.xdebug":
+	{
+		"height": 45.0
+	},
+	"pinned_build_system": "Packages/User/Builds/PHP.sublime-build",
+	"project": "restful_api.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"api.php",
+				"routes/api.php"
+			],
+			[
+				"sellerscope",
+				"app/Acme/Scopes/SellerScope.php"
+			],
+			[
+				"buyer",
+				"app/Buyer.php"
+			],
+			[
+				"buye",
+				"app/Buyer.php"
+			],
+			[
+				"belong",
+				"laravel_and_blade/Eloquent BelongToMany.sublime-snippet"
+			],
+			[
+				"hasone",
+				"laravel_and_blade/Eloquent HasOne.sublime-snippet"
+			],
+			[
+				"belongto",
+				"laravel_and_blade/Eloquent BelongToMany.sublime-snippet"
+			],
+			[
+				"many",
+				"laravel_and_blade/Eloquent BelongToMany.sublime-snippet"
+			],
+			[
+				"bel",
+				"laravel_and_blade/Eloquent HasMany.sublime-snippet"
+			],
+			[
+				"has",
+				"laravel_and_blade/Eloquent HasMany.sublime-snippet"
+			],
+			[
+				"user.",
+				"app/User.php"
+			],
+			[
+				"seller",
+				"app/Http/Controllers/Seller/SellerController.php"
+			],
+			[
+				"buuy",
+				"app/Http/Controllers/Buyer/BuyerController.php"
+			],
+			[
+				"user.php",
+				"app/User.php"
+			],
+			[
+				"roterser",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"homestead.rb",
+				"vendor/laravel/homestead/scripts/homestead.rb"
+			],
+			[
+				"form.bl",
+				"app/Acme/Forms/Form.blade.php"
+			],
+			[
+				"postcon",
+				"app/Http/Controllers/PostController.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"apicon",
+				"app/Http/Controllers/ApiController.php"
+			],
+			[
+				"apiconf",
+				"vendor/symfony/console/Tests/Fixtures/application_filtered_namespace.txt"
+			],
+			[
+				"lessoncon",
+				"app/Http/Controllers/LessonController.php"
+			],
+			[
+				"tagcon",
+				"app/Http/Controllers/TagController.php"
+			],
+			[
+				"tagcontr",
+				"app/Http/Controllers/TagController.php"
+			],
+			[
+				"api.",
+				"routes/api.php"
+			],
+			[
+				"response.php",
+				"vendor/symfony/http-foundation/Response.php"
+			],
+			[
+				"p",
+				"PrimeFactor.php"
+			],
+			[
+				"boot",
+				"core/bootstrap.php"
+			],
+			[
+				"pagecontr",
+				"controller/PageController.php"
+			],
+			[
+				"pag",
+				"controller/PageController.php"
+			],
+			[
+				"nm",
+				"controller/names.php"
+			],
+			[
+				"roter.",
+				"core/Router.php"
+			],
+			[
+				"app.blad",
+				"resources/views/app.blade.php"
+			],
+			[
+				"rolecon",
+				"app/Http/Controllers/RoleController.php"
+			],
+			[
+				"role/index",
+				"resources/views/role/index.blade.php"
+			],
+			[
+				"permiss",
+				"app/Http/Controllers/PermissionController.php"
+			],
+			[
+				"permissioncon",
+				"app/Http/Controllers/PermissionController.php"
+			],
+			[
+				"role/edit",
+				"resources/views/role/edit.blade.php"
+			],
+			[
+				"role/ind",
+				"resources/views/role/index.blade.php"
+			],
+			[
+				"role",
+				"app/Http/Controllers/RoleController.php"
+			],
+			[
+				"app.blade",
+				"resources/views/app.blade.php"
+			],
+			[
+				"role/inde",
+				"resources/views/role/index.blade.php"
+			],
+			[
+				"usercon",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"permi",
+				"app/Http/Controllers/PermissionController.php"
+			],
+			[
+				"compser",
+				"composer.json"
+			],
+			[
+				"",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"app.blade.php",
+				"resources/views/app.blade.php"
+			],
+			[
+				"appseric",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"sign",
+				"app/Http/Controllers/SigninController.php"
+			],
+			[
+				"signincon",
+				"app/Http/Controllers/SigninController.php"
+			],
+			[
+				"signin",
+				"app/Http/Controllers/SigninController.php"
+			],
+			[
+				"register.bl",
+				"resources/views/register.blade.php"
+			],
+			[
+				"rolecontr",
+				"app/Http/Controllers/RoleController.php"
+			],
+			[
+				"register",
+				"resources/views/register.blade.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"inputoption",
+				"1-console-episode/vendor/symfony/console/Input/InputOption.php"
+			],
+			[
+				"command.php",
+				"1-console-episode/vendor/symfony/console/Command/Command.php"
+			],
+			[
+				"envir",
+				"src/EnvironmentMonitor.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"composer.json",
+				"composer.json"
+			],
+			[
+				"testcase",
+				"vendor/phpunit/phpunit/src/Framework/TestCase.php"
+			],
+			[
+				"welcome.bla",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"main.js",
+				"resources/assets/js/main.js"
+			],
+			[
+				"index.php",
+				"2-adapter/index.php"
+			],
+			[
+				"book",
+				"2-adapter/src/Book.php"
+			],
+			[
+				"webpack",
+				"webpack.mix.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"index.blade.php",
+				"resources/views/project/index.blade.php"
+			],
+			[
+				"index.blad",
+				"resources/views/project/index.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"abb.js",
+				"public/js/abb.js"
+			],
+			[
+				"abb.",
+				"public/js/abb.js"
+			],
+			[
+				"index.bl",
+				"resources/views/project/index.blade.php"
+			],
+			[
+				"app.bla",
+				"resources/views/app.blade.php"
+			],
+			[
+				"sidebar",
+				"resources/views/sidebar.blade.php"
+			],
+			[
+				"sideba",
+				"resources/views/sidebar.blade.php"
+			],
+			[
+				"ap.bla",
+				"resources/views/app.blade.php"
+			],
+			[
+				"dash",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				"login.",
+				"resources/views/login.blade.php"
+			],
+			[
+				"app.blade.",
+				"resources/views/app.blade.php"
+			],
+			[
+				"order.",
+				"resources/views/order.blade.php"
+			],
+			[
+				"product.blade.php",
+				"resources/views/product.blade.php"
+			],
+			[
+				"prudc",
+				"vendor/phpspec/prophecy/src/Prophecy/Exception/Prediction/UnexpectedCallsException.php"
+			],
+			[
+				"app.balde.php",
+				"resources/views/app.blade.php"
+			],
+			[
+				"welcome.blade.php",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"verifycsrftoken",
+				"app/Http/Middleware/VerifyCsrfToken.php"
+			],
+			[
+				"welcome",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"cashier",
+				"vendor/laravel/cashier/src/Cashier.php"
+			],
+			[
+				"cashierserviceprovider",
+				"vendor/laravel/cashier/src/CashierServiceProvider.php"
+			],
+			[
+				"service.php",
+				"config/services.php"
+			],
+			[
+				"create_user",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"lara",
+				"storage/logs/laravel.log"
+			],
+			[
+				"orderautoconfirm.php",
+				"app/Jobs/OrderAutoConfirm.php"
+			],
+			[
+				"sendreminderemail",
+				"app/Jobs/SendReminderEmail.php"
+			],
+			[
+				"sendremindereamil",
+				"app/Jobs/SendReminderEamil.php"
+			],
+			[
+				"queue",
+				"config/queue.php"
+			],
+			[
+				"auth.php",
+				"vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+			],
+			[
+				"welcome.",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"authservice",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"authorizesrequests",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php"
+			],
+			[
+				"throttleslogins",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php"
+			],
+			[
+				"profile.blade.php",
+				"resources/views/sess/profile.blade.php"
+			],
+			[
+				"authenticate",
+				"vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php"
+			],
+			[
+				"sessioncontro",
+				"app/Http/Controllers/SessionController.php"
+			],
+			[
+				"sessioncon",
+				"app/Http/Controllers/SessionController.php"
+			],
+			[
+				"userc",
+				"app/Console/Commands/UserCreatorCommand.php"
+			],
+			[
+				"createuser",
+				"vendor/laravel/framework/src/Illuminate/Auth/CreatesUserProviders.php"
+			],
+			[
+				"web.hp",
+				"routes/web.php"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"java",
+				"config/javascript.php"
+			],
+			[
+				"javasc",
+				"vendor/laracasts/utilities/src/JavaScriptFacade.php"
+			],
+			[
+				"web.hpp",
+				"routes/web.php"
+			],
+			[
+				"todo.php",
+				"app/Todo.php"
+			],
+			[
+				"create_tot",
+				"database/migrations/2017_10_07_115352_create_todos_table.php"
+			],
+			[
+				"appservice",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"main",
+				"public/js/main.js"
+			],
+			[
+				"c",
+				"composer.json"
+			],
+			[
+				"articlecon",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"articlecontro",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"article.php",
+				"app/Article.php"
+			],
+			[
+				"articlest",
+				"app/Http/Requests/ArticleStoreRequest.php"
+			],
+			[
+				"article",
+				"app/Transformers/ArticleTransformer.php"
+			],
+			[
+				"usertrasn",
+				"app/Transformers/UserTransformer.php"
+			],
+			[
+				"articletran",
+				"app/Transformers/ArticleTransformer.php"
+			],
+			[
+				"create_arti",
+				"database/migrations/2017_10_05_034235_create_articles_table.php"
+			],
+			[
+				"article.",
+				"app/Article.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 209.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 846.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
